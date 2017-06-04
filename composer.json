@@ -44,6 +44,7 @@
     "friendsofphp/php-cs-fixer": "*",
     "phing/phing": "*",
     "phpmd/phpmd": "*",
-    "phpunit/phpunit": "*"
+    "phpunit/phpunit": "*",
+    "zendframework/zend-diactoros": "*"
   }
 }
