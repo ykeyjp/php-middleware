@@ -12,7 +12,7 @@ ykey/middleware - PHP Middleware Library
 {
   "repositories": [{
     "url": "https://github.com/ykeyjp/php-middleware.git",
-    "type": "git"
+    "type": "vcs"
   }],
   "require": {
     "ykey/middleware": "*"
